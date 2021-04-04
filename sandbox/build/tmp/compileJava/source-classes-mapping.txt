@@ -1,0 +1,6 @@
+ua/aqa/traning/sandbox/Rectangle.java
+ ua.aqa.traning.sandbox.Rectangle
+ua/aqa/traning/sandbox/MyFirstProgram.java
+ ua.aqa.traning.sandbox.MyFirstProgram
+ua/aqa/traning/sandbox/Square.java
+ ua.aqa.traning.sandbox.Square

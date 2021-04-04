@@ -1,0 +1,2 @@
+ua/aqa/training/sandbox/SquareTests.java
+ ua.aqa.training.sandbox.SquareTests

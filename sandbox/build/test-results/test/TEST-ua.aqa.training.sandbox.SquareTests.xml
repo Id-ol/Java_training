@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ua.aqa.training.sandbox.SquareTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-04T15:45:46" hostname="DO-10" time="0.007">
+  <properties/>
+  <testcase name="testArea" classname="ua.aqa.training.sandbox.SquareTests" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
